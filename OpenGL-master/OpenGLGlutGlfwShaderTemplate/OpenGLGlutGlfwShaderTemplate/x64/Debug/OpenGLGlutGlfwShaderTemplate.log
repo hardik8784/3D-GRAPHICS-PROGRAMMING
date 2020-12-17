@@ -1,0 +1,57 @@
+﻿  GAME2012_A5_ShahHardikDipakbhai.cpp
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(33,23): warning C4267: 'return': conversion from 'size_t' to 'GLsizei', possible loss of data
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(81,21): warning C4018: '<': signed/unsigned mismatch
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(137,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(149,30): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(150,30): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(195,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(288,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(289,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(307,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(318,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(365,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(383,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\Shape.h(430,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\GAME2012_A5_ShahHardikDipakbhai.cpp(270,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\GAME2012_A5_ShahHardikDipakbhai.cpp(436,27): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\GAME2012_A5_ShahHardikDipakbhai.cpp(438,27): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\GAME2012_A5_ShahHardikDipakbhai.cpp(440,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\GAME2012_A5_ShahHardikDipakbhai.cpp(442,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\GAME2012_A5_ShahHardikDipakbhai.cpp(444,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\GAME2012_A5_ShahHardikDipakbhai.cpp(446,27): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  prepShader.cpp
+H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\prepShader.cpp(16,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  OpenGLGlutGlfwShaderTemplate.vcxproj -> H:\3rd Semester\3D GRAPHICS PROGRAMMING\OpenGL-master\OpenGLGlutGlfwShaderTemplate\x64\Debug\OpenGLGlutGlfwShaderTemplate.exe

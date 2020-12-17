@@ -1,0 +1,56 @@
+﻿  GAME2012_Final_ShahHardikDipakbhai.cpp
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(33,23): warning C4267: 'return': conversion from 'size_t' to 'GLsizei', possible loss of data
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(81,21): warning C4018: '<': signed/unsigned mismatch
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(137,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(149,30): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(150,30): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(195,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(288,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(289,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(307,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(318,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(365,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(383,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\Shape.h(430,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\GAME2012_Final_ShahHardikDipakbhai.cpp(1240,27): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\GAME2012_Final_ShahHardikDipakbhai.cpp(1242,27): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\GAME2012_Final_ShahHardikDipakbhai.cpp(1244,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\GAME2012_Final_ShahHardikDipakbhai.cpp(1246,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\GAME2012_Final_ShahHardikDipakbhai.cpp(1248,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\GAME2012_Final_ShahHardikDipakbhai.cpp(1250,27): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  prepShader.cpp
+B:\GAME2012_Final_ShahHardikDipakbhai\OpenGLGlutGlfwShaderTemplate\prepShader.cpp(16,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  OpenGLGlutGlfwShaderTemplate.vcxproj -> B:\GAME2012_Final_ShahHardikDipakbhai\x64\Debug\OpenGLGlutGlfwShaderTemplate.exe
